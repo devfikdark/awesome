@@ -82,7 +82,7 @@
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
-- [React](https://github.com/enaqx/awesome-react#readme
+- [React](https://github.com/enaqx/awesome-react#readme)
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) 
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme)
@@ -111,3 +111,17 @@
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) 
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme)
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) 
+
+
+## Back-End Development
+
+- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) 
+- [Docker](https://github.com/veggiemonk/awesome-docker#readme)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) 
+- [Laravel](https://github.com/chiraggude/awesome-laravel#readme)
+- [Rails](https://github.com/gramantin/awesome-rails#readme) 
+- [nginx](https://github.com/fcambus/nginx-resources#readme) 
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) 
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) 
+- [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) 
+
