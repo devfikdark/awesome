@@ -152,3 +152,15 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) 
+
+
+## Big Data
+
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
+- [Public Datasets](https://github.com/awesomedata/awesome-public-datasets#readme)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop#readme)
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
+- [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
+- [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) 
+- [Qlik](https://github.com/ambster-public/awesome-qlik#readme) 
+- [Splunk](https://github.com/sduff/awesome-splunk#readme) 
