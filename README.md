@@ -125,3 +125,30 @@
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) 
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) 
 
+
+## Computer Science
+
+- [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
+- [Data Science](https://github.com/academic/awesome-datascience#readme)
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
+	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) 
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) 
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) 
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
+	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
+	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
+	- [Question Answering](https://github.com/seriousran/awesome-qa#readme) -
+	- [Natural Language Generation](https://github.com/tokenmill/awesome-nlg#readme)
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) 
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) 
+	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) 
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) 
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+- [Open Source Society University](https://github.com/ossu/computer-science#readme)
+- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+- [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) 
