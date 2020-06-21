@@ -177,3 +177,14 @@
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) 
+
+
+## Books
+
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
+- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality#readme)
+- [Go Books](https://github.com/dariubs/GoBooks#readme)
+- [R Books](https://github.com/RomanTsegelskyi/rbooks#readme)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
+- [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
+- [Elixir Books](https://github.com/sger/ElixirBooks#readme)
