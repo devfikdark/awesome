@@ -164,3 +164,16 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) 
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) 
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) 
+
+
+## Theory
+
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+- [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
+- [Math](https://github.com/rossant/awesome-math#readme)
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) 
