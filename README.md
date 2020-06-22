@@ -196,3 +196,22 @@
 - [Atom](https://github.com/mehcode/awesome-atom#readme)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) 
 
+
+## Development Environment
+
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme)
+- [Dev Env](https://github.com/jondot/awesome-devenv#readme)
+- [Shell](https://github.com/alebcay/awesome-shell#readme)
+- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) 
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) 
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme)
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+- [Git Tips](https://github.com/git-tips/tips#readme)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) 
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) 
+- [Hyper](https://github.com/bnb/awesome-hyper#readme)
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) 
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme)
