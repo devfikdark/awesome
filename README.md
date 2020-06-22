@@ -188,3 +188,11 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+
+
+## Editors
+
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
+- [Atom](https://github.com/mehcode/awesome-atom#readme)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) 
+
