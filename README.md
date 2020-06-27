@@ -231,4 +231,20 @@
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
 
 
+## Security
 
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme)  
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hacking](https://github.com/carpedm20/awesome-hacking#readme) 
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme)  
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme)  
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme)  
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+ 
+ 
+ 
