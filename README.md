@@ -248,3 +248,17 @@
  
  
  
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) 
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme)  
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) 
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) 
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme)  
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme)  
+- [k6](https://github.com/k6io/awesome-k6#readme)  
+- [Playwright](https://github.com/mxschmitt/awesome-playwright#readme)
+
+
+
+
