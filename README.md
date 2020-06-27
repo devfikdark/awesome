@@ -215,3 +215,20 @@
 - [Hyper](https://github.com/bnb/awesome-hyper#readme)
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) 
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme)
+
+
+## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db#readme)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme)  
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme)  
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme)  
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) 
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) 
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme)  
+- [Contexture](https://github.com/ltchris/awesome-contexture#readme)  
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme)
+
+
+
