@@ -1,0 +1,138 @@
+# Resources-npm
+
+## Top 1000 most depended npm packages for
+
+### (NodeJS - ReactJS- AngularJS - Vuejs)
+----
+
+- [lodash](https://github.com/lodash/lodash) - The Lodash library exported as Node.js modules. `npm i lodash`
+- [chalk](https://github.com/chalk/chalk) - Terminal string styling done right. `npm i chalk`
+- [request](https://github.com/request/request) - Request - Simplified HTTP client. `npm i request`
+- [commander](https://github.com/tj/commander.js) - The complete solution for node.js command-line interfaces, inspired by Ruby's commander. `npm i commander`
+- [react](https://github.com/facebook/react) - React is a JavaScript library for creating user interfaces. `npm i react`
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node. `npm i express`
+- [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers. `npm i debug` 
+- [async](https://github.com/caolan/async) - Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript. `npm i async` 
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - fs-extra adds file system methods. `npm i fs-extra` 
+- [moment](https://github.com/moment/moment) - A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates. `npm i moment` 
+- [prop-types](https://github.com/facebook/prop-types) - Runtime type checking for React props and similar objects. `npm i prop-types`
+- [react-dom](https://github.com/facebook/react) - This package serves as the entry point to the DOM and server renderers for React. `npm i react-dom` 
+- [bluebird](https://github.com/petkaantonov/bluebird) - Bluebird is a fully featured promise library with focus on innovative features and performance. `npm i bluebird`
+- [underscore](https://github.com/jashkenas/underscore) - Underscore.js is a utility-belt library for JavaScript that provides support for the usual functional suspects (each, map, reduce, filter...) without extending any core JavaScript objects. `npm i underscore` 
+- [vue](https://github.com/vuejs/vue) - Vue is a progressive framework for building user interfaces. `npm i vue` 
+- [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js. `npm i axios` 
+- [tslib](https://github.com/Microsoft/tslib) - This is a runtime library for TypeScript that contains all of the TypeScript helper functions. `npm i tslib`
+- [mkdirp](https://github.com/isaacs/node-mkdirp) - Like mkdir -p, but in Node.js! `npm i mkdirp` 
+- [glob](https://github.com/isaacs/node-glob) - This is a glob implementation in JavaScript. It uses the minimatch library to do its matching. `npm i glob`
+- [yargs](https://github.com/yargs/yargs) - Yargs be a node.js library fer hearties tryin' ter parse optstrings. `npm i yargs` 
+- [colors](https://github.com/Marak/colors.js) - Get color and style in your node.js console. `npm i colors`
+- [inquirer](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces. `npm i inquirer`
+- [webpack](https://github.com/webpack/webpack) - webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. `npm i webpack` 
+- [uuid](https://github.com/uuidjs/uuid) - For the creation of RFC4122 UUIDs. `npm i uuid`
+- [classnames](https://github.com/JedWatson/classnames) - A simple JavaScript utility for conditionally joining classNames together. `npm i classnames`
+- [minimist](https://github.com/substack/minimist) - This module is the guts of optimist's argument parser without all the fanciful decoration. `npm i minimist`
+- [body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware. `npm i body-parser`
+- [rxjs](https://github.com/reactivex/rxjs) - RxJS: Reactive Extensions For JavaScript. `npm i rxjs` 
+- [babel-runtime](https://github.com/babel/babel/tree/master/packages/babel-runtime) - babel's modular runtime helpers. `npm i babel-runtime`
+- [jquery](https://github.com/jquery/jquery) - jQuery is a fast, small, and feature-rich JavaScript library. `npm i jquery`
+- [yeoman-generator](https://github.com/yeoman/generator) - Rails-inspired generator system that provides scaffolding for your apps. `npm i yeoman-generator`
+- [through2](https://github.com/rvagg/through2) - A tiny wrapper around Node.js streams.Transform (Streams2/3) to avoid explicit subclassing noise. `npm i through2` 
+- [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) - Babel compiler core.`npm i babel-core`
+- [core-js](https://github.com/zloirock/core-js) - Modular standard library for JavaScript. `npm i core-js` 
+- [semver](https://github.com/npm/node-semver) - The semantic versioner for npm. `npm i semver` 
+- [babel-loader](https://github.com/babel/babel-loader) - This package allows transpiling JavaScript files using Babel and webpack. `npm i babel-loader`
+- [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible & lean implementation of core jQuery designed specifically for the server. `npm i cheerio`
+- [rimraf](https://github.com/isaacs/rimraf) - The UNIX command rm -rf for node. `npm i rimraf`
+- [q](https://github.com/kriskowal/q) - A Node.js and CommonJS module, available in npm as the q package. `npm i q`
+- [eslint](https://github.com/eslint/eslint) - ESLint is a tool for identifying and reporting on patterns found in ECMAScript/JavaScript code. `npm i eslint` 
+- [css-loader](https://github.com/webpack-contrib/css-loader) - The css-loader interprets @import and url() like import/require() and will resolve them. `npm i css-loader` 
+- [shelljs](https://github.com/shelljs/shelljs) - Unix shell commands for Node.js. `npm i shelljs` 
+- [dotenv](https://github.com/motdotla/dotenv) - Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. `npm i dotenv` 
+- [typescript](https://github.com/Microsoft/TypeScript) - TypeScript is a language for application-scale JavaScript. `npm i typescript` 
+- [@types/node](https://github.com/DefinitelyTyped/DefinitelyTyped) - This package contains type definitions for Node.js (http://nodejs.org/). `npm i @types/node`
+- [@angular/core](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. `npm i @angular/core` 
+- [js-yaml](https://github.com/nodeca/js-yaml) - YAML 1.2 parser / writer for JavaScript. `npm i js-yaml` 
+- [style-loader](https://github.com/webpack-contrib/style-loader) - Inject CSS into the DOM. `npm i style-loader`
+- [winston](https://github.com/winstonjs/winston) - A logger for just about everything. `npm i winston`
+- [@angular/common](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. `npm i @angular/common` 
+- [redux](https://github.com/reduxjs/redux) - Redux is a predictable state container for JavaScript apps. `npm i redux`
+- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 Object.assign() ponyfill. `npm i object-assign`
+- [zone.js](https://github.com/angular/angular) - Implements Zones for JavaScript, inspired by Dart. `npm i zone.js`
+- [babel-eslint](https://github.com/babel/babel-eslint) - babel-eslint allows you to lint ALL valid Babel code with the fantastic ESLint. `npm i babel-eslint`
+- [gulp](https://github.com/gulpjs/gulp) - The request failed while talking to the backend. `npm i gulp`
+- [gulp-util](https://github.com/gulpjs/gulp-util) - Utility functions for gulp plugins. `npm i gulp-util`
+- [file-loader](https://github.com/webpack-contrib/file-loader) - The file-loader resolves import/require() on a file into a url and emits the file into the output directory. `npm i file-loader`
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner. `npm i ora`
+- [node-fetch](https://github.com/bitinn/node-fetch) - A light-weight module that brings window.fetch to Node.js. `npm i node-fetch`
+- [@angular/platform-browser](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. Please file issues and pull requests against that repo. `npm i @angular/platform-browser`
+- [@babel/runtime](https://github.com/babel/babel) - babel's modular runtime helpers. `npm i @babel/runtime`
+- [handlebars](https://github.com/wycats/handlebars.js) - Handlebars.js is an extension to the Mustache templating language created by Chris Wanstrath. `npm i handlebars`
+- [eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - This plugin intends to support linting of ES2015+ (ES6+) import/export syntax, and prevent issues with misspelling of file paths and import names. `npm i eslint-plugin-import`
+- [@angular/compiler](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. Please file issues and pull requests against that repo. `npm i @angular/compiler`
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint. `npm i eslint-plugin-react`
+- [aws-sdk](https://github.com/aws/aws-sdk-js) - The official AWS SDK for JavaScript, available for browsers and mobile devices, or Node.js backends. `npm i aws-sdk`
+- [yosay](https://github.com/yeoman/yosay) - Tell Yeoman what to say. `npm i yosay`
+- [url-loader](https://github.com/webpack-contrib/url-loader) - A loader for webpack which transforms files into base64 URIs. `npm i url-loader`
+- [@angular/forms](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. Please file issues and pull requests against that repo. `npm i @angular/forms`
+- [webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Use webpack with a development server that provides live reloading. This should be used for development only. `npm i webpack-dev-server`
+- [@angular/platform-browser-dynamic](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. Please file issues and pull requests against that repo. `npm i @angular/platform-browser-dynamic`
+- [mocha](https://github.com/mochajs/mocha) - ☕️ Simple, flexible, fun JavaScript test framework for Node.js & The Browser. `npm i mocha`
+- [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) - Plugin that simplifies creation of HTML files to serve your bundles. `npm i html-webpack-plugin`
+- [socket.io](https://github.com/socketio/socket.io) - Socket.IO enables real-time bidirectional event-based communication. `npm i socket.io`
+- [ws](https://github.com/websockets/ws) - ws is a simple to use, blazing fast, and thoroughly tested WebSocket client and server implementation. `npm i ws`
+- [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015) - Babel preset for all es2015 plugins. `npm i babel-preset-es2015`
+- [postcss-loader](https://github.com/postcss/postcss-loader) - Loader for webpack to process CSS with PostCSS. `npm i postcss-loader`
+- [node-sass](https://github.com/sass/node-sass) - Node-sass is a library that provides binding for Node.js to LibSass, the C version of the popular stylesheet preprocessor, Sass. `npm i node-sass`
+- [ember-cli-babel](https://github.com/babel/ember-cli-babel) - This Ember-CLI plugin uses Babel and @babel/preset-env to allow you to use latest Javascript in your Ember CLI project. `npm i ember-cli-babel`
+- [babel-polyfill](https://github.com/babel/babel/tree/master/packages/babel-polyfill) - This package has been deprecated in favor of separate inclusion of required parts of core-js and regenerator-runtime. See our website @babel/polyfill for more information. `npm i babel-polyfill`
+- [@angular/router](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. Please file issues and pull requests against that repo. `npm i @angular/router`
+- [ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers. `npm i ramda`
+- [react-redux](https://github.com/reduxjs/react-redux) - Official React bindings for Redux. Performant and flexible. `npm i react-redux`
+- [@babel/core](https://github.com/babel/babel) - Babel compiler core. `npm i @babel/core`
+- [@angular/http](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. `npm i @angular/http`
+- [ejs](https://github.com/mde/ejs) - Embedded JavaScript templates. `npm i ejs`
+- [coffee-script](https://github.com/jashkenas/coffeescript) - CoffeeScript is a little language that compiles into JavaScript. `npm i coffee-script`
+- [superagent](https://github.com/visionmedia/superagent) - Small progressive client-side HTTP request library, and Node.js module with the same API, supporting many high-level HTTP client features. `npm i superagent`
+- [request-promise](https://github.com/request/request-promise) - The simplified HTTP request client 'request' with Promise support. Powered by Bluebird. `npm i request-promise`
+- [autoprefixer](https://github.com/postcss/autoprefixer) - PostCSS plugin to parse CSS and add vendor prefixes to CSS rules using values from Can I Use. It is recommended by Google and used in Twitter and Alibaba. `npm i autoprefixer`
+- [path](https://github.com/jinder/path) - This is an exact copy of the NodeJS ’path’ module published to the NPM registry. `npm i path`
+- [mongodb](https://github.com/mongodb/node-mongodb-native) - The official MongoDB driver for Node.js. Provides a high-level API on top of mongodb-core that is meant for end users. `npm i mongodb`
+- [chai](https://github.com/chaijs/chai) - Chai is a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework. `npm i chai`
+- [mongoose](https://github.com/Automattic/mongoose) - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports both promises and callbacks. `npm i mongoose`
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - Simple XML to JavaScript object converter. It supports bi-directional conversion. `npm i xml2js`
+- [bootstrap](https://github.com/twbs/bootstrap) - Bootstrap Sleek, intuitive, and powerful front-end framework for faster and easier web development. `npm i bootstrap`
+- [jest](https://github.com/facebook/jest) - 🃏 Delightful JavaScript Testing. `npm i jest`
+- [sass-loader](https://github.com/webpack-contrib/sass-loader) - Loads a Sass/SCSS file and compiles it to CSS. `npm i sass-loader`
+- [redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client. `npm i redis`
+- [vue-router](https://github.com/vuejs/vue-router) - vue-router is the official router for Vue.js. `npm i vue-router`
+- [chokidar](https://github.com/paulmillr/chokidar) - A neat wrapper around Node.js fs.watch / fs.watchFile / FSEvents. `npm i chokidar`
+- [co](https://github.com/tj/co) - Generator based control flow goodness for nodejs and the browser, using promises, letting you write non-blocking code in a nice-ish way. `npm i co`
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for accessibility rules on JSX elements. `npm i eslint-plugin-jsx-a11y`
+- [nan](https://github.com/nodejs/nan) - Native Abstractions for Node.js. `npm i nan`
+- [optimist](https://github.com/substack/node-optimist) - Optimist is a node.js library for option parsing for people who hate option parsing. `npm i optimist`
+- [promise](https://github.com/then/promise) - This is a simple implementation of Promises. `npm i promise`
+- [@angular/animations](https://github.com/angular/angular) - The sources for this package are in the main Angular repo. `npm i @angular/animations`
+- [postcss](https://github.com/postcss/postcss) - PostCSS is a tool for transforming styles with JS plugins. These plugins can lint your CSS, support variables and mixins, transpile future CSS syntax, inline images, and more. `npm i postcss`
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js. `npm i morgan`
+- [less](https://github.com/less/less.js) - The dynamic stylesheet language. `npm i less`
+- [immutable](https://github.com/facebook/immutable-js) - Immutable collections for JavaScript. `npm i immutable`
+- [qs](https://github.com/ljharb/qs) - A querystring parsing and stringifying library with some added security. `npm i qs`
+- [loader-utils](https://github.com/webpack/loader-utils) - `npm i loader-utils`
+- [fs](https://github.com/npm/security-holder) - Security holding package. `npm i fs`
+- [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) - Extract text from a bundle, or bundles, into a separate file. `npm i extract-text-webpack-plugin`
+- [marked](https://github.com/markedjs/marked) - 🌐 works in a browser, on a server, or from a command line interface (CLI). `npm i marked`
+- [mime](https://github.com/broofa/mime) - A comprehensive, compact MIME type module. `npm i mime`
+- [@alifd/next](https://github.com/alibaba-fusion/next) - An enterprise-class UI solution for backend system. ``
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper. `npm i meow`
+- [styled-components](https://github.com/styled-components/styled-components) - "Unable to find a readme for styled-components@5.1.1" `npm i styled-components`
+- [resolve](https://github.com/browserify/resolve) - Implements the node require.resolve() algorithm such that you can require.resolve() on behalf of a file asynchronously and synchronously. `npm i resolve`
+- [reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Metadata Reflection API. `npm i reflect-metadata`
+- [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) - Babel preset for all React plugins. `npm i babel-preset-react`
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - This was developed against draft-ietf-oauth-json-web-token-08. It makes use of node-jws. `npm i jsonwebtoken`
+- [react-router-dom](https://github.com/ReactTraining/react-router) - DOM bindings for React Router. `npm i react-router-dom`
+- [extend](https://github.com/justmoon/node-extend) - node-extend is a port of the classic extend() method from jQuery. `npm i extend`
+- [cookie-parser](https://github.com/expressjs/cookie-parser) - Parse Cookie header and populate req.cookies with an object keyed by the cookie names. `npm i cookie-parser`
+- [whatwg-fetch](https://github.com/github/fetch) - window.fetch polyfill. `npm i whatwg-fetch`
+- [babel-preset-env](https://github.com/babel/babel-preset-env) - Now that babel-preset-env has stabilized, it has been moved into the main Babel mono-repo and this repo has been archived. `npm i babel-preset-env`
+- [babel-jest](https://github.com/facebook/jest) - Babel jest plugin. `npm i babel-jest`
+- [mysql](https://github.com/mysqljs/mysql) - This is a Node.js module available through the npm registry. `npm i mysql`
